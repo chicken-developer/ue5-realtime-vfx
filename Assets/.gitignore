@@ -28,16 +28,6 @@ Thumbs.db
 *.picnc
 *.rat
 
-# Blender
-*.blend1
-*.blend2
-*.blend.bak
-**/blender_backup/
-**/cache/
-*.bphys
-*.pyc
-**/__pycache__/
-
 # Maya
 *.mb.bak
 *.ma.bak
@@ -69,11 +59,7 @@ Thumbs.db
 **/temp/
 **/autosave/
 **/backup/
-*.tga
-*.png
-*.jpg
-*.exr
-*.psd
+
 
 # Unreal Engine
 **/Content/DerivedDataCache/
